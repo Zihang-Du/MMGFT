@@ -1,2 +1,2 @@
-# MMGFT
+# MMRFT
 Code implementation of MMRFT structure
